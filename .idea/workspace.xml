@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f08005d8-e971-4866-a059-14e15dadc223" name="Changes" comment="add headers" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Faces_C964_RK\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kystome&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kystome/Faces_C964_RK.git&quot;,
+    &quot;accountId&quot;: &quot;6f8df90c-e2d3-44f1-bbbb-81356836ccc9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hA4cSGqpSYITDFrzOxiBwUlsIU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Faces_UI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rwbk1/PycharmProjects/Faces_C964_RK&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rwbk1\PycharmProjects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rwbk1\PycharmProjects\Faces_C964_RK" />
+      <recent name="C:\Users\rwbk1\PycharmProjects\Faces_C964_RK\models" />
+      <recent name="C:\Users\rwbk1\PycharmProjects\FacesPractice2\cross_val" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="FacesPractice2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Faces_C964_RK" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f08005d8-e971-4866-a059-14e15dadc223" name="Changes" comment="" />
+      <created>1717023626748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717023626748</updated>
+      <workItem from="1717023627762" duration="8461000" />
+      <workItem from="1717034750178" duration="16000" />
+      <workItem from="1717035359366" duration="1107000" />
+      <workItem from="1717048998170" duration="3826000" />
+      <workItem from="1717092103518" duration="1825000" />
+      <workItem from="1717107762507" duration="171000" />
+      <workItem from="1717110664581" duration="6820000" />
+      <workItem from="1717120818790" duration="419000" />
+      <workItem from="1717172217340" duration="2004000" />
+      <workItem from="1717201959915" duration="1772000" />
+      <workItem from="1717203792335" duration="371000" />
+      <workItem from="1717204176688" duration="450000" />
+      <workItem from="1717216504174" duration="1056000" />
+      <workItem from="1717270386431" duration="1740000" />
+      <workItem from="1717272195231" duration="251000" />
+      <workItem from="1717272471154" duration="1388000" />
+      <workItem from="1717287878413" duration="758000" />
+      <workItem from="1717450451264" duration="2415000" />
+      <workItem from="1717454699308" duration="15000" />
+      <workItem from="1717456055330" duration="341000" />
+      <workItem from="1717458270463" duration="331000" />
+      <workItem from="1717458615046" duration="1399000" />
+      <workItem from="1717460140774" duration="23000" />
+      <workItem from="1717460175029" duration="103000" />
+      <workItem from="1717460722388" duration="113000" />
+      <workItem from="1717461776533" duration="47000" />
+      <workItem from="1717465697091" duration="224000" />
+      <workItem from="1717465960320" duration="18000" />
+      <workItem from="1717465984176" duration="210000" />
+      <workItem from="1717466205413" duration="600000" />
+      <workItem from="1717467632011" duration="2614000" />
+      <workItem from="1717473868939" duration="3975000" />
+      <workItem from="1717485684282" duration="3435000" />
+      <workItem from="1717717061914" duration="4046000" />
+      <workItem from="1717778959211" duration="1736000" />
+      <workItem from="1717794049610" duration="5209000" />
+      <workItem from="1717800420323" duration="1475000" />
+      <workItem from="1717803255986" duration="2991000" />
+      <workItem from="1717808559382" duration="132000" />
+      <workItem from="1717873478389" duration="11000" />
+      <workItem from="1717881057774" duration="7000" />
+      <workItem from="1717881199414" duration="33000" />
+      <workItem from="1717881243010" duration="63000" />
+      <workItem from="1717881447320" duration="199000" />
+      <workItem from="1717881671011" duration="86000" />
+      <workItem from="1717881831020" duration="59000" />
+    </task>
+    <task id="LOCAL-00001" summary="add pip install">
+      <option name="closed" value="true" />
+      <created>1717451534738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717451534738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add requirements.txt and the app">
+      <option name="closed" value="true" />
+      <created>1717452616071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717452616071</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed files">
+      <option name="closed" value="true" />
+      <created>1717452902640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717452902640</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1717453229485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717453229485</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1717460010172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460010172</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1717460200095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460200095</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1717460245886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460245886</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1717460830541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460830541</updated>
+    </task>
+    <task id="LOCAL-00009" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1717477477852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717477477852</updated>
+    </task>
+    <task id="LOCAL-00010" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1717489154818</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717489154818</updated>
+    </task>
+    <task id="LOCAL-00011" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1717489189971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717489189971</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update Faces_UI so model matches">
+      <option name="closed" value="true" />
+      <created>1717718144907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717718144907</updated>
+    </task>
+    <task id="LOCAL-00013" summary="minor update">
+      <option name="closed" value="true" />
+      <created>1717722820763</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717722820763</updated>
+    </task>
+    <task id="LOCAL-00014" summary="minor update">
+      <option name="closed" value="true" />
+      <created>1717799243959</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717799243959</updated>
+    </task>
+    <task id="LOCAL-00015" summary="minor update">
+      <option name="closed" value="true" />
+      <created>1717799282983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717799282983</updated>
+    </task>
+    <task id="LOCAL-00016" summary="minor update">
+      <option name="closed" value="true" />
+      <created>1717799293158</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717799293158</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add code comments, remove unnecessary cells">
+      <option name="closed" value="true" />
+      <created>1717801892865</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717801892865</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add code comments, remove unnecessary cells">
+      <option name="closed" value="true" />
+      <created>1717803593738</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717803593738</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add code for visualizations, save visualization pictures">
+      <option name="closed" value="true" />
+      <created>1717804503992</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717804503992</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add headers">
+      <option name="closed" value="true" />
+      <created>1717806337115</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717806337115</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add headers">
+      <option name="closed" value="true" />
+      <created>1717881731402</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717881731402</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add pip install" />
+    <MESSAGE value="add requirements.txt and the app" />
+    <MESSAGE value="removed files" />
+    <MESSAGE value="update" />
+    <MESSAGE value="Add requirements.txt" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="update Faces_UI so model matches" />
+    <MESSAGE value="minor update" />
+    <MESSAGE value="add code comments, remove unnecessary cells" />
+    <MESSAGE value="add code for visualizations, save visualization pictures" />
+    <MESSAGE value="add headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add headers" />
+  </component>
+</project>
